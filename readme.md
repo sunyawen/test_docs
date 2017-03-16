@@ -4,3 +4,4 @@
 - linux
 - oracle
 - mysql
+- influxdb
